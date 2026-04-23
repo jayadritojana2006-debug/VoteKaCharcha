@@ -8,7 +8,7 @@
 
 ## 🚀 Project Description  
 
-**Vote Ka Charcha** is a beginner-friendly blockchain project where people can **vote securely and transparently** without relying on a central authority.  
+**Vote Ka Charcha** is a beginner-friendly blockchain project where people can **vote securely and transparently** without relying on a central authority. It works great with the current  circumstances of voting where vote theft is a common practise in many areas.
 It demonstrates how voting systems can be made **trustless, verifiable, and decentralized** using Ethereum smart contracts.  
 
 The project can be easily deployed, tested, or extended for educational or real-world use cases such as:
